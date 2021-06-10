@@ -1,4 +1,5 @@
 # UICZip
 Decompress Anything
 
-### STILL DEVELOPING IN MY SPARE TIME
+### Maintenence Paused
+#### Student, having no time to code.
